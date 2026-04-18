@@ -26,7 +26,7 @@ This repository contains my Capture The Flag (CTF) challenge writeups.
 
 ### 🔹 First Challenge (Coming Soon)
 
-* Platform: TryHackMe / HackTheBox
+* Platform: TryHackMe / HackTheBox / SecDojo
 * Difficulty: Easy
 * Summary: To be added
 
